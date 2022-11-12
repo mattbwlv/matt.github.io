@@ -14,6 +14,7 @@ You can find some of my papers [here][papers].
 
 You can sometimes find me on these sites, although I can't promise regular updates: 
 
+* <a rel="me" href="https://mastodon.social/@mattbellingham"> @mattbellingham@mastodon.social</a> on Mastodon
 * [@mattbellingham][twitter] on Twitter
 * [ResearchGate][researchgate]
 * [Academia.edu][academia]
