@@ -19,14 +19,15 @@ You can sometimes find me on these sites, although I can't promise regular updat
 * [ResearchGate][researchgate]
 * [Academia.edu][academia]
 * [GitHub][github]
-* [LinkedIn][linkedin] (yuck)
+* [LinkedIn][linkedin]
 
 
 [email]: matt.bellingham@gmail.com?subject=Hello%20from%20the%20web
-[work link]: https://www.wlv.ac.uk/about-us/our-staff/matt-bellingham/
+[work link]: https://www.port.ac.uk/about-us/structure-and-governance/organisational-structure/our-academic-structure/faculty-of-creative-and-cultural-industries/school-of-creative-technologies
+[mastodon]: https://mastodon.social/@mattbellingham
 [papers]: https://www.researchgate.net/profile/Matt_Bellingham
 [twitter]: https://twitter.com/mattbellingham
 [researchgate]: https://www.researchgate.net/profile/Matt_Bellingham
 [academia]: https://wlv.academia.edu/MattBellingham
-[github]: https://github.com/mattbwlv
+[github]: https://github.com/mattbport
 [linkedin]: https://www.linkedin.com/in/matt-bellingham-69676b23/
