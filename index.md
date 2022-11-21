@@ -23,7 +23,7 @@ You can sometimes find me on these sites, although I can't promise regular updat
 
 
 [email]: matt.bellingham@gmail.com?subject=Hello%20from%20the%20web
-[work link]: https://www.port.ac.uk/about-us/structure-and-governance/organisational-structure/our-academic-structure/faculty-of-creative-and-cultural-industries/school-of-creative-technologies
+[work link]: https://researchportal.port.ac.uk/en/persons/matt-bellingham
 [mastodon]: https://mastodon.social/@mattbellingham
 [papers]: https://www.researchgate.net/profile/Matt_Bellingham
 [twitter]: https://twitter.com/mattbellingham
