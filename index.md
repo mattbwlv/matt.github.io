@@ -20,7 +20,7 @@ You can sometimes find me on these sites, although I can't promise regular updat
 * [Academia.edu][academia]
 * [GitHub][github]
 * [LinkedIn][linkedin]
-* I don't actively use Twitter any more, but my profile [@mattbellingham][twitter] is still there (for now).
+* I don't actively use Twitter anymore, but my profile [@mattbellingham][twitter] is still there (for now).
 
 
 [email]: matt.bellingham@gmail.com?subject=Hello%20from%20the%20web
