@@ -14,16 +14,17 @@ You can find some of my papers [here][papers].
 
 You can sometimes find me on these sites, although I can't promise regular updates: 
 
+* [Bluesky][bluesky]
 * <a rel="me" href="https://mastodon.social/@mattbellingham"> @mattbellingham@mastodon.social</a> on Mastodon
-* [@mattbellingham][twitter] on Twitter
 * [ResearchGate][researchgate]
 * [Academia.edu][academia]
 * [GitHub][github]
 * [LinkedIn][linkedin]
+* I don't actively use Twitter any more, but my profile [@mattbellingham][twitter] is still there (for now).
 
 
 [email]: matt.bellingham@gmail.com?subject=Hello%20from%20the%20web
-[work link]: https://researchportal.port.ac.uk/en/persons/matt-bellingham
+[work link]: https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/matt-bellingham
 [mastodon]: https://mastodon.social/@mattbellingham
 [papers]: https://www.researchgate.net/profile/Matt_Bellingham
 [twitter]: https://twitter.com/mattbellingham
@@ -31,3 +32,4 @@ You can sometimes find me on these sites, although I can't promise regular updat
 [academia]: https://wlv.academia.edu/MattBellingham
 [github]: https://github.com/mattbport
 [linkedin]: https://www.linkedin.com/in/matt-bellingham-69676b23/
+[bluesky]: https://bsky.app/profile/mattbellingham.bsky.social
