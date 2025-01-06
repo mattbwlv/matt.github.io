@@ -10,7 +10,7 @@ You can email me <a class="email u-email" href="mailto:matt.bellingham@gmail.com
  
 I work [here][work link]. Please get in touch if you'd like to come and study with me and the awesome people I work with. 
 
-You can find some of my papers [here][papers]. 
+You can find some of my papers [here][papers]. My CV is [here][cv].
 
 You can sometimes find me on these sites, although I can't promise regular updates: 
 
@@ -33,3 +33,4 @@ You can sometimes find me on these sites, although I can't promise regular updat
 [github]: https://github.com/mattbport
 [linkedin]: https://www.linkedin.com/in/matt-bellingham-69676b23/
 [bluesky]: https://bsky.app/profile/mattbellingham.bsky.social
+[cv]: cv.html
